@@ -1,0 +1,1 @@
+python sol.py --file input.txt
